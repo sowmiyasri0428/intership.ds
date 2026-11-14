@@ -62,5 +62,7 @@ Today, I learned and practiced the following Python concepts:
 - Created functions for greetings and addition.
 - Learned how to pass arguments and return values.
 
-**Day 2 Progress:** Practiced Python loops, variable scope, and functions. 
+**Day 2 Progress:** Practiced Python loops, variable scope, and functions.
+
+
 intern: sowmiyasri.S
