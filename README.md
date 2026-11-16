@@ -66,3 +66,40 @@ Today, I learned and practiced the following Python concepts:
 
 
 intern: sowmiyasri.S
+
+
+
+
+# Day 3 – Python Practice
+
+This notebook covers the basics of **Python Lists, List Operations, Dictionaries, and File Handling** through simple coding examples.
+
+## Topics Covered
+
+- **Lists:** Creating and storing multiple elements.
+- **Append:** Adding elements to a list.
+- **Insert:** Adding elements at a specific position.
+- **Remove:** Removing specific elements.
+- **Pop:** Removing elements from a list.
+- **Reverse:** Reversing list elements.
+- **List Slicing:** Accessing elements using index ranges.
+- **List Iteration:** Using `for` loops to access elements.
+- **Membership Operators:** Checking elements using `in`.
+- **Dictionaries:** Creating and accessing key-value pairs.
+- **File Handling:** Creating, writing, and reading text files.
+
+## Practical Exercises
+
+- Created lists of favourite music, food, and juices.
+- Practised different list manipulation methods.
+- Retrieved specific elements using list slicing.
+- Iterated through list elements.
+- Checked whether an element exists in a list.
+- Created a student details dictionary.
+- Created and read a text file using Python.
+
+## Learning Outcome
+
+Gained hands-on experience with Python data structures, list operations, dictionaries, and basic file handling.
+
+intern : sowmiyasri.S
